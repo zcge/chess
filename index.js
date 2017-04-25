@@ -1,1 +1,1 @@
-console.log('helloWord');
+console.log(1);
